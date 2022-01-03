@@ -3,16 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+Mi piace di tanto in tanto scrivere di alcuni argomenti. Questo sito è il posto che ho creato per farlo, in perfetta autonomia, senza obblighi o impegno verso nessuno, senza contatori di visite o, peggio, followers. Senza pubblicità ovviamente e senza nessuna frequenza prestabilita. Insomma, _alla vecchia_.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Oltre alla scrittura questo sito è fatto per ospitare anche quelle foto - tratte per lo più da viaggi - che possano giustificare la presenza nel mio cv della parolina _fotografia_ alla voce "hobbies and interests".
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Se hai necessità di contattarmi puoi farlo tramite i canali social o tramite <a rel="noreferrer noopener" href="#" target="_blank">questa pagina di contatto</a>
