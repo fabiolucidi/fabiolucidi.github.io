@@ -36,7 +36,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
-
 remote_theme: "fabiolucidi/so-simple-theme@3.2.0"
 
 defaults:
@@ -75,9 +74,9 @@ defaults:
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
-date_format: "%B %-d, %Y"
-read_time: # reading time estimates, e.g. true
-words_per_minute: # 200
+date_format: "%A, %b %d, %Y"
+read_time: true # reading time estimates, e.g. true
+words_per_minute: 200
 mathjax:
   enable: # MathJax equations, e.g. true, false (default)
   combo:  # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
@@ -91,7 +90,7 @@ google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: # site's Twitter username, e.g. "mmistakes"
+  username: bioaf # site's Twitter username, e.g. "mmistakes"
 
 # Liquid
 liquid:
@@ -144,12 +143,19 @@ author:
   email: fabio.lucidi@pm.me
   twitter: bioaf
   links:
-    - title:
-      url:
-      icon:
+    - title: twitter
+      url: https://twitter.com/bioaf
+      icon: fab fa-twitter-square
+    - title: instagram
+      url: https://instagram.com/fablucidi
+      icon: fab fa-instagram
+    - title: GitHub
+      url: https://github.com/fabiolucidi
+      icon: fab fa-github-square
 
 # Footer Links
 footer_links:
   - title: feed
     url: atom.xml
     icon: fas fa-rss-square
+copyright: "This site is made with <3 by *me, myself, and I*."
