@@ -1,0 +1,26 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+sitemap: false
+---
+
+@charset "utf-8";
+
+@import "so-simple";
+
+.read-time, .page-taxonomies-title {
+  font-style: normal;
+}
+
+.entry-title, .page-title {
+  font-style: normal;
+}
+
+/* to be deleted after commit on so simple fork due to $fabio-red */
+
+blockquote {
+  border-left-color: #c40000;
+}
+
+.read-time, .page-taxonomies-title {
+  color: #c40000;
+}
