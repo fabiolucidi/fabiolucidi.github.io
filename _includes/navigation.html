@@ -1,0 +1,16 @@
+{% if site.data.navigation %}
+  <div class="menu-header">
+    <nav id="menu-header" class="site-nav-new">
+      <ul>
+        {%- for link in site.data.navigation -%}
+          {%- if link.url contains '://' -%}
+            {%- assign url = link.url -%}
+          {%- else -%}
+            {%- assign url = link.url | relative_url -%}
+          {%- endif -%}
+          <li><a href="{{ url }}">{{ link.title }}</a></li>
+        {%- endfor -%}
+      </ul>
+    </nav>
+  </div><!-- /.navigation-wrapper -->
+{% endif %}

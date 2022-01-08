@@ -24,3 +24,94 @@ blockquote {
 .read-time, .page-taxonomies-title {
   color: #c40000;
 }
+
+.site-nav-new {
+  display: none;
+  margin-bottom: 1em;
+  text-align: center;
+  font-family: $description-font-family;
+
+  ul {
+    display: block;
+    margin: 0.25;
+    padding: 0.25em 0.25em;
+    list-style: none;
+
+    @include breakpoint($medium) {
+      display: inline-block;
+    }
+  }
+
+  li {
+    display: inline-block;
+    font-size: 1rem;
+  }
+
+  a {
+    display: block;
+    padding: 0.5em 0.75em;
+    text-decoration: none;
+    color: #c40000;
+  }
+
+  @include breakpoint($medium) {
+    display: block;
+  }
+
+  &.js-menu-is-open {
+    display: block;
+    -webkit-animation-name: initial;
+    animation-name: initial;
+  }
+}
+
+.masthead {
+  @include clearfix;
+  margin-bottom: 0em;
+  text-align: center;
+}
+
+.site-title {
+  margin: 0.5em 0 0;
+  padding: 0;
+  @include fluid-type($min-vw, $max-vw, $h2-min, $h2-max);
+  font-weight: 700;
+
+  a {
+    text-decoration: none;
+  }
+}
+
+.site-description {
+  margin-bottom: 1em;
+  font-family: $description-font-family;
+  @include fluid-type($min-vw, $max-vw, $h5-min, $h5-max);
+  font-weight: 200;
+  font-style: italic;
+}
+
+.site-logo {
+  display: inline-block;
+  position: relative;
+  z-index: 10;
+  margin-top: 1em;
+}
+
+.site-logo-img {
+  width: $site-logo-width;
+  height: $site-logo-height;
+  border: 5px solid;
+  border-radius: $site-logo-width;
+
+  @include breakpoint($medium) {
+    width: 1.5 * $site-logo-width;
+    height: 1.5 * $site-logo-height;
+    border-radius: 1.5 * $site-logo-width;
+  }
+
+  @include breakpoint($large) {
+    width: 2 * $site-logo-width;
+    height: 2 * $site-logo-height;
+    border-radius: 2 * $site-logo-width;
+  }
+}

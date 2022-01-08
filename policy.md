@@ -14,7 +14,8 @@ Per informazioni riguardanti la Privacy Policy, la gestione dei dati o richieste
 Se lasci un commento il sito raccoglie i dati inseriti nel form di commento, l'indirizzo IP e il campo "user agent" del protocollo HTTP come misura di prevenzione dello spam.
 
 ### Cookies (cookie policy)
-**Questo sito odia i cookies** e per ora non so che cookies salva...
+**Questo sito odia i cookies** e ne usa il minimo possibile: uno. Si tratta, paradossalmente, del file necessario per non farvi comparire ad ogni accesso il messaggio di accettazione/rifiuto della Cookie e Privacy Policy.
+Questo cookie, denominato _Cookie consent_ ha durata/scadenza di un anno.
 
 ### Contenuti incorporati e dati raccolti da altri siti
 I miei post - e in generale il sito - potrebbero includere contenuti che provengono da altri siti (es. video YouTube). Per questi contenuti si applica la privacy policy dei siti che detengono tali contenuti e che potrebbero raccogliere dati riguardo te, usare cookies, incorporare il tracking di terze parti e monitorare le tue interazioni con il contenuto incorporato se hai un account e/o sei loggato su quel sito.
@@ -23,10 +24,6 @@ I miei post - e in generale il sito - potrebbero includere contenuti che proveng
 
 ### Form di contatto
 I dati forniti nell'invio del form di contatto (Nome, Email, Messaggio) non vengono salvati sul database del sito, ma vengono inoltrati, tramite una mail automatica, direttamente a me per potervi risondere. Il form è gestito dalla piattaforma Formspree, la cui privacy policy è disponibile su [questa pagina](https://formspree.io/legal/privacy-policy).
-
-### Newsletter
-**DA AGGIORNARE O ELIMINARE A SECONDA DELLA NEWSLETTER CHE CI SARA'**
-~~Se scegli di seguire il sito tramite la newsletter o comunque di iscriverti alla stessa è necessario che tu inserisca - e quindi fornisca - il tuo indirizzo email che sarà poi utilizzato per inviare una primissima mail, che serve a confermare l'indirizzo inserito e la volontà di iscriverti, e le successive mail periodiche automatiche che compongono la newsletter. Le newsletter sono gestite tramite la piattaforma Wordpress.com (che quindi utilizzerà il vostro indirizzo email per l'invio). In ogni mail inviata è contenuto un link per gestire le proprie preferenze sulla newsletter inclusa la possibilità di disiscriversi.~~
 
 ## Con chi vengono condivisi i dati
 I pochi dati raccolti <strong>non vengono condivisi con nessuno</strong> e hanno sempre un'unica finalità: gestire e sviluppare al meglio il sito stesso in futuro.

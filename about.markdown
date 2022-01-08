@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: About
 permalink: /about/
 ---
@@ -7,4 +7,4 @@ Mi piace di tanto in tanto scrivere di alcuni argomenti. Questo sito è il posto
 
 Oltre alla scrittura questo sito è fatto per ospitare anche quelle foto - tratte per lo più da viaggi - che possano giustificare la presenza nel mio cv della parolina _fotografia_ alla voce "hobbies and interests".
 
-Se hai necessità di contattarmi puoi farlo tramite i canali social o tramite <a rel="noreferrer noopener" href="#" target="_blank">questa pagina di contatto</a>
+Se hai necessità di contattarmi puoi farlo tramite i canali social o tramite la [pagina di contatto](/contact)
