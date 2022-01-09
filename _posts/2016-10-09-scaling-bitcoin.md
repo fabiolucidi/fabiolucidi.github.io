@@ -7,7 +7,6 @@ image:
   thumbnail: /images/2016-10-09-scaling-bitcoin.png
   caption: Scaling Bitcoin, Milan
 excerpt: I started getting closer to bitcoin early this spring thanks to a course held by [Ferdinando M. Ametrano](https://www.ametrano.org) - the Chairman of the workshop committee - and since them it has been a crescendo of knowledge and astonishment. Frankly speaking when I discovered that...
-
 ---
 
 >This post first appeared on my medium page [here](https://medium.com/@fabio/scaling-bitcoin-impressions-of-a-first-timer-fc24f15b639c)
