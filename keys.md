@@ -1,9 +1,9 @@
 ---
 layout: page
 ---
-# List of my valid PGP Keys
-## RSA Key (Any purpose)
-`974B 4157 88C3 B4FF 7253 24DD 4EF2 D6AB 22B0 DA03 | RSA-4096` | [Download here](945...asc)
+# List of my valid PGP Public Keys
+## RSA Key (RSA-4096) | [Download](974b......asc)
+`974B 4157 88C3 B4FF 7253 24DD 4EF2 D6AB 22B0 DA03`
 
 <pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -117,9 +117,9 @@ iOqvAtW2FHhsDsImu51dUg==
 =vnho
 -----END PGP PUBLIC KEY BLOCK-----
 </pre>
-## ECDSA Key (E-mail only)
-`ADDD 4D85 96C2 692A 4238 55AD F2BF B577 139E 3340 | ED25519` | Download here
 
+## ECDSA Key (ED25519) | [Download](ADDD...asc)
+`ADDD 4D85 96C2 692A 4238 55AD F2BF B577 139E 3340`
 <pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -171,8 +171,11 @@ Z1mKdYYlufC5e4DcQgUnsbFo+F4o62XyF+sA/0DY5PavmJUG+ql2wMnhlr8nSNHh
 You can check more on my [keybase profile](http://keybase.io/fabiolucidi).
 
 # List of my revoked keys (fingerprint)
-`ADC7 8E1B CC8C C903 7619 381F EC87 7604 B028 F39D | Full key pair, created on a non-air-gapped/secure machine`
+* `ADC7 8E1B CC8C C903 7619 381F EC87 7604 B028 F39D` \
+_Reason: Key pair, created on a non-air-gapped/secure machine_
 
-`FF63 FD20 63A9 1AE6 2D74 F460 E6B7 330B 41C4 F0FC | Full key pair, created on a non-air-gapped/secure machine`
+* `FF63 FD20 63A9 1AE6 2D74 F460 E6B7 330B 41C4 F0FC` \
+_Reason: Key pair, created on a non-air-gapped/secure machine_
 
-`0cb3 4b1d d518 25de 77d5 3e31 3b13 9b1d d46b c3cf | Encryption subkey, never used, publication error`
+* `0cb3 4b1d d518 25de 77d5 3e31 3b13 9b1d d46b c3cf` \
+_Encryption subkey, never used, publication error_

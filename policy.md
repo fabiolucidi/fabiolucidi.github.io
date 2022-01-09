@@ -23,20 +23,16 @@ I miei post - e in generale il sito - potrebbero includere contenuti che proveng
 **Per capirci**: se sul mio sito ti propongo un video di YouTube su Roberto Baggio e sei loggato su YouTube è probabile che la prossima volta che aprirai il loro sito ti verranno proposti dei video di calcio.
 
 ### Form di contatto
-I dati forniti nell'invio del form di contatto (Nome, Email, Messaggio) non vengono salvati sul database del sito, ma vengono inoltrati, tramite una mail automatica, direttamente a me per potervi risondere. Il form è gestito dalla piattaforma Formspree, la cui privacy policy è disponibile su [questa pagina](https://formspree.io/legal/privacy-policy).
+I dati forniti nell'invio del form di contatto (Nome, Email, Messaggio) non vengono salvati sul sito, ma vengono inviati, tramite una mail automatica, direttamente a me per potervi risondere. Il form è gestito dalla piattaforma Formspree, la cui privacy policy è disponibile su [questa pagina](https://formspree.io/legal/privacy-policy).
 
 ## Con chi vengono condivisi i dati
-I pochi dati raccolti <strong>non vengono condivisi con nessuno</strong> e hanno sempre un'unica finalità: gestire e sviluppare al meglio il sito stesso in futuro.
+I dati raccolti - quelli del form di contatto che non transitano dal sito - <strong>non vengono condivisi con nessuno se non con me</strong> e la finalità di comunciare con voi.
 
 ## Per quanto tempo vengono conservati i dati
-I commenti e suoi metadati, descritti prima nella relativa sezione, vengono salvati a tempo indeterminato, il motivo è per rilevare e gestire automaticmente la "catena" dei commenti (quella che si crea "rispondendo" ad un commento).
-
-Altri dati, oltre quelli dei commenti, non vengono raccolti e quindi non vengono salvati.
-
-**Gli indirizzi email forniti per ricevere la newsletter vengono conservati fintantoché non esprimete il consenso a disiscrivervi.**
+Materialmente su **questo sito** non vengono raccolti dati personali e quindi non ne vengono conservati.
 
 ## I tuoi diritti sui tuoi dati
-Se hai lasciato un commento su questo sito puoi richiedere un'estrazione dei dati che hai inserito. Puoi anche richiedere la cancellazione dei tuoi dati, al netto di quelli che occorre vengano mantenuti per motivi legali o di sicurezza.
+Puoi richiedere la cancellazione dei tuoi dati (quelli inseriti nel form di contatto), al netto delle informazioni che occorre vengano mantenute per motivi legali o di sicurezza.
 
 ## Dove risiedono i dati di questo sito
 Questo sito è sviluppato con Jekyll su GitHub i cui server sono a San Francisco, California, Stati Uniti.
