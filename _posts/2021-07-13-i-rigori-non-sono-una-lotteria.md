@@ -9,8 +9,6 @@ image:
 title: I rigori non sono una lotteria
 excerpt: Ci sarebbero tantissime cose di cui vorrei parlare in questo periodo ma il carattere del paradosso la spunta sempre su tutti e quindi prenderò in prestito un pochino del vostro tempo per esplorare l’abisso dell’ignoranza di quei nostri connazionali che hanno cercato di comprare un green pass “falso”. Quest’argomento ha numerosi aspetti interessanti fra cui […]
 ---
-{% twitter https://twitter.com/CucchiRiccardo/status/1412524462877163526?ref_src=twsrc%5Etfw %}
-
 L’Europeo è finito, l’abbiamo vinto. Ai rigori, come la semifinale e come l’ultma volta a Berlino 2006. Ora guardiamoci indietro e vedremo alcune cose incredibili di questo Europeo, attraverso alcuni protagonisti che ho scelto per parlare del meglio e solamente questo perché per il peggio non c’è tempo.
 
 # Premessa
