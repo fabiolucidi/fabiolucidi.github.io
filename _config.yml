@@ -23,7 +23,7 @@ email: fabio.lucidi@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
   un blog di Fabio Lucidi
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.fabiolucidi.it" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /images/profile.png
 twitter_username: bioaf
 github_username:  fabiolucidi
@@ -37,8 +37,9 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-twitter-plugin
+  - jekyll-include-cache
 
-remote_theme: "fabiolucidi/so-simple-theme@3.2.0"
+remote_theme: fabiolucidi/so-simple-theme@3.2.0
 
 defaults:
   -
