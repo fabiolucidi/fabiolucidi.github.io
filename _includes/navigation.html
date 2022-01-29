@@ -1,6 +1,7 @@
 {% if site.data.navigation %}
   <div class="menu-header">
     <nav id="menu-header" class="site-nav-new">
+      {% unless page.layout == 'post' %}
       <ul>
         {%- for link in site.data.navigation -%}
           {%- if link.url contains '://' -%}
@@ -10,6 +11,7 @@
           {%- endif -%}
           <li><a href="{{ url }}">{{ link.title }}</a></li>
         {%- endfor -%}
+        {% endunless %}
       </ul>
     </nav>
   </div><!-- /.navigation-wrapper -->
