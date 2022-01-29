@@ -36,6 +36,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-twitter-plugin
 
 remote_theme: "fabiolucidi/so-simple-theme@3.2.0"
 
