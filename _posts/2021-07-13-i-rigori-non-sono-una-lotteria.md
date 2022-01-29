@@ -9,6 +9,8 @@ image:
 title: I rigori non sono una lotteria
 excerpt: Ci sarebbero tantissime cose di cui vorrei parlare in questo periodo ma il carattere del paradosso la spunta sempre su tutti e quindi prenderò in prestito un pochino del vostro tempo per esplorare l’abisso dell’ignoranza di quei nostri connazionali che hanno cercato di comprare un green pass “falso”. Quest’argomento ha numerosi aspetti interessanti fra cui […]
 ---
+<blockquote class="twitter-tweet"><p lang="it" dir="ltr">Rigori. Non è una lotteria. Il rigore è un fondamentale nel calcio. (Cit. Sandro Ciotti) <a href="https://twitter.com/hashtag/ForzaAzzurri?src=hash&amp;ref_src=twsrc%5Etfw">#ForzaAzzurri</a> <a href="https://twitter.com/hashtag/ItaliaSpagna?src=hash&amp;ref_src=twsrc%5Etfw">#ItaliaSpagna</a> <a href="https://twitter.com/hashtag/ITAESP?src=hash&amp;ref_src=twsrc%5Etfw">#ITAESP</a></p>&mdash; riccardo cucchi (@CucchiRiccardo) <a href="https://twitter.com/CucchiRiccardo/status/1412524462877163526?ref_src=twsrc%5Etfw">July 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 L’Europeo è finito, l’abbiamo vinto. Ai rigori, come la semifinale e come l’ultma volta a Berlino 2006. Ora guardiamoci indietro e vedremo alcune cose incredibili di questo Europeo, attraverso alcuni protagonisti che ho scelto per parlare del meglio e solamente questo perché per il peggio non c’è tempo.
 
 # Premessa

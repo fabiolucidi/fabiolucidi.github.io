@@ -11,7 +11,7 @@ excerpt: Qualche giorno fa ho ritwittato un grafico di @therationalroot realizza
 ---
 Qualche giorno fa ho ritwittato un grafico di @therationalroot realizzato sulla base di un modello predittivo molto noto in ambito bitcoin di [PlanB](https://planbtc.com/) (su twitter [@100trillionUSD](https://twitter.com/100trillionusd)).
 
-{% twitter https://twitter.com/therationalroot/status/1464595608417628168 %}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I present the <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> S2F Cross Asset Spiral based on <a href="https://twitter.com/100trillionUSD?ref_src=twsrc%5Etfw">@100trillionUSD</a>&#39;s Cross Asset Model, but incorporating block-time/halvings. A visual representation of bitcoin’s outwards spiral in search of its marketcap corresponding with its S2F. <a href="https://t.co/6AqPJPcWP5">pic.twitter.com/6AqPJPcWP5</a></p>&mdash; Root 🥕 (@therationalroot) <a href="https://twitter.com/therationalroot/status/1464595608417628168?ref_src=twsrc%5Etfw">November 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <figure class="align-center" style="width: 580px">
   <a href="#"><img src="{{ 'images/2021-12-04-stock-to-flow-cross-asset-spiral-chart-spiegato.jpeg' | absolute_url }}" alt=""></a>
