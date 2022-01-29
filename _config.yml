@@ -23,7 +23,7 @@ email: fabio.lucidi@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
   un blog di Fabio Lucidi
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://fabiolucidi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.fabiolucidi.it" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /images/profile.png
 twitter_username: bioaf
 github_username:  fabiolucidi
@@ -38,7 +38,7 @@ plugins:
   - jekyll-paginate
   - jekyll-include-cache
 
-remote_theme: fabiolucidi/so-simple-theme@3.2.0
+remote_theme: fabiolucidi/so-simple-theme
 
 defaults:
   -
@@ -84,7 +84,7 @@ mathjax:
   combo:  # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
   tags:  # "none", "ams" (default), "all"
 google_fonts:
-  - name: "Source Sans Pro"
+  - name: "Andada Pro"
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
@@ -157,7 +157,16 @@ author:
 
 # Footer Links
 footer_links:
+  - title: twitter
+    url: https://twitter.com/bioaf
+    icon: fab fa-twitter-square
+  - title: instagram
+    url: https://instagram.com/fablucidi
+    icon: fab fa-instagram
+  - title: GitHub
+    url: https://github.com/fabiolucidi
+    icon: fab fa-github-square
   - title: feed
     url: atom.xml
     icon: fas fa-rss-square
-copyright: "This site is made with <3 by *me, myself, and I*."
+copyright: "This site is made with Jekyll, GitHub Pages and <3"
