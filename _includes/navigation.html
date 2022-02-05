@@ -1,12 +1,12 @@
 {% if site.data.navigation %}
   <div class="menu-header">
-    <nav id="menu-header" class="site-nav-new">
+    <nav id="menu-header" class="site-nav">
       {% unless page.layout == 'post' %}
       <ul>
         {%- for link in site.data.navigation -%}
           {%- if link.url contains '://' -%}
             {%- assign url = link.url -%}
-          {%- else -%}
+            {%- else -%}
             {%- assign url = link.url | relative_url -%}
           {%- endif -%}
           <li><a href="{{ url }}">{{ link.title }}</a></li>
