@@ -28,6 +28,7 @@ logo: /images/profile.png
 twitter_username: bioaf
 github_username:  fabiolucidi
 repository: fabiolucidi/fabiolucidi.github.io
+repo_url: https://github.com/fabiolucidi/fabiolucidi.github.io
 
 # Build settings
 #theme: minima
