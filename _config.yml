@@ -27,6 +27,7 @@ url: "https://www.fabiolucidi.it" # the base hostname & protocol for your site, 
 logo: /images/profile.png
 twitter_username: bioaf
 github_username:  fabiolucidi
+repository: fabiolucidi/fabiolucidi.github.io
 
 # Build settings
 #theme: minima
@@ -169,4 +170,4 @@ footer_links:
   - title: feed
     url: atom.xml
     icon: fas fa-rss-square
-copyright: "This site is made with Jekyll, GitHub Pages and <3 <br/> Feel free to [tip me](bitcoin://bc1q8mcuu9tlzdjvrt9t8s7hv04e6p8eqctn32c9e7) or [donate](bitcoin://bc1q8mcuu9tlzdjvrt9t8s7hv04e6p8eqctn32c9e7) with bitcoin"  
+copyright: "This site is made with Jekyll, GitHub Pages and <3 <br/> Feel free to [tip me](bitcoin://bc1q8mcuu9tlzdjvrt9t8s7hv04e6p8eqctn32c9e7) or [donate](bitcoin://bc1q8mcuu9tlzdjvrt9t8s7hv04e6p8eqctn32c9e7) with bitcoin: <br/> bc1q8mcuu9tlzdjvrt9t8s7hv04e6p8eqctn32c9e7"

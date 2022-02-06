@@ -1,0 +1,9 @@
+<!-- start custom footer snippets -->
+{% if site.github.build_revision %}
+ {% if site.repo_url %}
+   <span class="commit">Revision <a href="{{ site.repo_url | url }}/commit/{{ site.github.build_revision }}" target="_blank"><code>{{ site.github.build_revision | truncate: 8, "" }}</code></a>.
+ {% else %}
+   <span class="commit">Revision <code>{{ site.github.build_revision | truncate: 8, "" }}</code>.</span>
+ {% endif %}
+{% endif %}
+<!-- end custom footer snippets -->
