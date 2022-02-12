@@ -171,4 +171,4 @@ footer_links:
   - title: feed
     url: atom.xml
     icon: fas fa-rss-square
-copyright: "This site is made with Jekyll, GitHub Pages and <3 <br/> Feel free to [tip me](bitcoin://bc1q8mcuu9tlzdjvrt9t8s7hv04e6p8eqctn32c9e7) or [donate](bitcoin://bc1q8mcuu9tlzdjvrt9t8s7hv04e6p8eqctn32c9e7) with bitcoin: <br/> bc1q8mcuu9tlzdjvrt9t8s7hv04e6p8eqctn32c9e7"
+copyright: "Feel free to [tip me](bitcoin://bc1q8mcuu9tlzdjvrt9t8s7hv04e6p8eqctn32c9e7) or [donate](bitcoin://bc1q8mcuu9tlzdjvrt9t8s7hv04e6p8eqctn32c9e7) with bitcoin: <br/> bc1q8mcuu9tlzdjvrt9t8s7hv04e6p8eqctn32c9e7 <br/> This site is made with Jekyll, GitHub Pages and <3"
