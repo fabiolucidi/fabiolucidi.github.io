@@ -1,8 +1,9 @@
 ---
 layout: page
+title: Keys
 ---
 # List of my valid PGP Public Keys
-## RSA Key (RSA-4096) | [Download](974b......asc)
+## RSA Key (RSA-4096) | [Download](https://www.fabiolucidi.it/974B415788C3B4FF725324DD4EF2D6AB22B0DA03.asc)
 `974B 4157 88C3 B4FF 7253 24DD 4EF2 D6AB 22B0 DA03`
 
 <pre>
@@ -118,7 +119,7 @@ iOqvAtW2FHhsDsImu51dUg==
 -----END PGP PUBLIC KEY BLOCK-----
 </pre>
 
-## ECDSA Key (ED25519) | [Download](ADDD...asc)
+## ECDSA Key (ED25519) | [Download](https://www.fabiolucidi.it/ADDD4D8596C2692A423855ADF2BFB57713.asc)
 `ADDD 4D85 96C2 692A 4238 55AD F2BF B577 139E 3340`
 <pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
