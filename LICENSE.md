@@ -1,12 +1,12 @@
-{{ project }} (c) {{ year }} by {{ organization }}
+fabiolucidi.it and fabiolucidi.github.io (c) 2022 by Fabio Lucidi
 
 # LICENSE
-This project - {{ project }}- is licensed under two different licenses:
+This project - fabiolucidi.github.io and fabiolucidi.it - is licensed under two different licenses:
 1. All the code is licensed under MIT License
 2. All the content of the subfolder `/_posts` and `/_drafts` is licensed under Creative Commons Attribution-NonCommercial 3.0 Unported License
 
 ## MIT License
-Copyright (c) {{ year }} {{ organization }}
+Copyright (c) 2022 - Fabio Lucidi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
