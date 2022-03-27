@@ -2,11 +2,11 @@
 
 - title: home
   url: /
-- title: archives
-  url: /archives/
 - title: about
   url: /about/
 - title: keys
   url: /keys/
+- title: archives
+  url: /archives/
 - title: policy
   url: /policy/
