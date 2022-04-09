@@ -3,8 +3,12 @@ layout: page
 title: Keys
 ---
 # List of my valid PGP Public Keys
-## RSA Key (RSA-4096) | [Download](https://www.fabiolucidi.it/974B415788C3B4FF725324DD4EF2D6AB22B0DA03.asc)
-`974B 4157 88C3 B4FF 7253 24DD 4EF2 D6AB 22B0 DA03`
+## RSA Key (RSA-4096) |
+
+#### Fingerprint: `974B 4157 88C3 B4FF 7253 24DD 4EF2 D6AB 22B0 DA03`
+The PGP public key block can be found [here](https://www.fabiolucidi.it/974B415788C3B4FF725324DD4EF2D6AB22B0DA03.asc) or on the main third party key servers like [this](https://keyserver.ubuntu.com/pks/lookup?search=0x974b415788c3b4ff725324dd4ef2d6ab22b0da03&fingerprint=on&hash=on&op=index).
+
+<!--
 
 <pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -118,9 +122,13 @@ iOqvAtW2FHhsDsImu51dUg==
 =vnho
 -----END PGP PUBLIC KEY BLOCK-----
 </pre>
+-->
+## ECDSA Key (ED25519)
 
-## ECDSA Key (ED25519) | [Download](https://www.fabiolucidi.it/ADDD4D8596C2692A423855ADF2BFB57713.asc)
-`ADDD 4D85 96C2 692A 4238 55AD F2BF B577 139E 3340`
+#### Fingerprint: `ADDD 4D85 96C2 692A 4238 55AD F2BF B577 139E 3340`
+The PGP public key block can be found [here](https://www.fabiolucidi.it/ADDD4D8596C2692A423855ADF2BFB57713.asc) or on the main third party key servers like [this](https://keyserver.ubuntu.com/pks/lookup?search=0xADDD4D8596C2692A423855ADF2BFB577139E3340&fingerprint=on&op=index).
+
+<!--
 <pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -167,6 +175,8 @@ Z1mKdYYlufC5e4DcQgUnsbFo+F4o62XyF+sA/0DY5PavmJUG+ql2wMnhlr8nSNHh
 =AyyA
 -----END PGP PUBLIC KEY BLOCK-----
 </pre>
+
+-->
 
 # Keybase
 You can check more on my [keybase profile](http://keybase.io/fabiolucidi).
