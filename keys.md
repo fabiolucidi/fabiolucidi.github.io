@@ -3,7 +3,7 @@ layout: page
 title: Keys
 ---
 # List of my valid PGP Public Keys
-## RSA Key (RSA-4096) |
+## RSA Key (RSA-4096)
 
 #### Fingerprint: `974B 4157 88C3 B4FF 7253 24DD 4EF2 D6AB 22B0 DA03`
 The PGP public key block can be found [here](https://www.fabiolucidi.it/974B415788C3B4FF725324DD4EF2D6AB22B0DA03.asc) or on the main third party key servers like [this](https://keyserver.ubuntu.com/pks/lookup?search=0x974b415788c3b4ff725324dd4ef2d6ab22b0da03&fingerprint=on&hash=on&op=index).
