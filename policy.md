@@ -5,6 +5,9 @@ title: Privacy Policy
 ## Chi sono
 Mi chiamo Fabio Lucidi e sono il proprietario e unico contributore di questo sito (https://www.fabiolucidi.it) e per questo motivo vi voglio raccontare di seguito quali dei vostri dati vengono raccolti e come vengono utilizzati.
 Sono tenuto a farlo per legge e lo faccio volentieri :) premettendo che questo sito - per un mio preciso credo su come dovrebbe essere Internet - minimizza il più possibile la raccolta e la conservazione dei dati degli utenti.
+Il sito è molto semplice e, per costruzione, è amico della privacy: non salva dati sul vostro pc (e.g. _cookies_) né raccoglie informazioni. Essendo costruito come un insieme di pagine html _senza_ database è tecnicamente impedita la possibilità di raccogliere e conservare dati di terzi.
+
+Questa privacy policy è necessaria perché, tramite altri servizi, alcuni vostri dati possono essere raccolti e trovo corretto segnalarvelo.
 
 <h3>Informazioni di contatto</h3>
 Per informazioni riguardanti la Privacy Policy, la gestione dei dati o richieste relative ad essi potete contattarmi tramite il form della [pagina di contatto](/contact).
@@ -19,7 +22,7 @@ I post - e in generale il sito - potrebbero includere contenuti che provengono d
 _Per capirci_: se sul mio sito proponessi un video di YouTube su Roberto Baggio e tu fossi loggato su quella piattaforma potrebbe accadere che la prossima volta che accederai a YouTube ti vengano proposti dei video di calcio.
 
 ### Cookies (cookie policy)
-Questo sito odia i cookies, non ne usa né ne archivia.
+Questo sito non usa _cookies_.
 
 ## Con chi vengono condivisi i dati
 I dati raccolti - quelli del form di contatto che **non** transitano dal sito - non vengono condivisi con terze parti.
