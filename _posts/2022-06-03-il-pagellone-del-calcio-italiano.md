@@ -4,7 +4,7 @@ categories: writings
 share: false
 image:
   path: /images/2022-06-03-il-pagellone-del-calcio-italiano.jpeg
-  thumbnail: /images/2022-06-03-il-pagellone-del-calcio-italiano-thumb.jpg
+  thumbnail: /images/2022-06-03-il-pagellone-del-calcio-italiano.jpeg
   caption: Festeggiamenti dello Scudetto a Casa Milan, personal archive
 title: Il pagellone del calcio italiano
 excerpt:
