@@ -5,8 +5,8 @@ title: "San Siro, esordio"
 date: 2022-08-14
 share: false
 image:
-  path: /images/2022-08-14-san-siro.jpg
-  thumbnail: /images/2022-08-14-san-siro.jpg
+  path: /images/2022-08-14-san-siro-esordio.jpg
+  thumbnail: /images/2022-08-14-san-siro-esordio.jpg
   caption: <a href="https://unsplash.com/photos/l4eh7JhdxiE">Unnamed, a photo by Mikita Yo</a>
 excerpt: "Il rito dell'arrivo, dell'ingresso, delle scale (la rampa solo a uscire), dell'affacciarsi e vedere quant'è verde e quant'è bello quel prato punteggiato dai giocatori della nostra squadra (e dell'altra). Realizzare quanti tifosi sono lì per vedere..."
 ---
@@ -21,4 +21,4 @@ Sono in un altro mondo, osservo tutto (non fotografo niente, voi che lo fate cos
 
 L'aria è ovviamente calda ed elettrica, suggerisce che accadrà qualcosa subito, ma non pensavo sarebbe stata l'amarezza collettiva per un gol subito dopo un minuto (ce ne sarà un altro a fine primo tempo). Si ribalta tutto in pochi minuti: l'immediato sostegno alla squadra porta all'esaltazione per i gol fatti, inclusa la _suspense_ per l'intervento del VAR. Poi l'intervallo e un secondo tempo finalmente all'ombra e tranquillo per gioco e punteggio (finisce 4 a 2, ovviamente).
 In tutto ciò si sentono anche le opinioni altrui più o meno gridate sui calciatori meno graditi: qui ho potuto verificare che **fra Gesù e Barabba, per qualche motivo, la folla sceglierà sempre Barabba**. Siamo sull'1 a 1 e Diaz riceve palla diversi metri fuori area. Neanche il tempo di pensare che, un po' dietro di me, sento dire che Diaz è scarso, motivo: dà palla a Calabria sull'esterno anziché Messias più accentrato. La sua scelta consentirà a Calabria di metter palla in area e favorire il secondo gol, il primo di Rebic. Tralasciamo poi che Diaz segnerà il terzo e, con Messias, determinerà il quarto (assist). La gente griderà sempre Barabba per poi dimenticarsi di averlo fatto.
-Nel bene e nel male sono tutte cose che vivi solo se hai altre persone attorno a te, conosciute e sconosciute, con opinioni simili o diverse, non cambia. L'emozione di condividere le stesse emozioni **con così tante persone, nello stesso posto e per la stessa ragione** è obiettivamente un'esperienza a sé. Da ripetere molte altre volte. 
+Nel bene e nel male sono tutte cose che vivi solo se hai altre persone attorno a te, conosciute e sconosciute, con opinioni simili o diverse, non cambia. L'emozione di condividere le stesse emozioni **con così tante persone, nello stesso posto e per la stessa ragione** è obiettivamente un'esperienza a sé. Da ripetere molte altre volte.
