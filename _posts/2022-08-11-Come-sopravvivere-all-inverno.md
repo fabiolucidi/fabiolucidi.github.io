@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: writings
+categories: bitcoin
 title: "Come sopravvivere all'inverno (e alle altre stagioni)"
 date: 2022-08-11
 share: false
