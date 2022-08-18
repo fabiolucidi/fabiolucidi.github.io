@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: category
 title: Bitcoin  
-entries_layout: page  
+permalink: /categories/bitcoin/
+taxonomy: bitcoin
+entries_layout: grid  
 ---
-# Bitcoin
+<!-- # Bitcoin
 Here's the list of my posts dedicated to Bitcoin
 <ul>
 {% for post in site.categories.bitcoin %}
@@ -11,4 +13,4 @@ Here's the list of my posts dedicated to Bitcoin
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endif %}
 {% endfor %}
-</ul>
+</ul> -->

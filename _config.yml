@@ -21,7 +21,7 @@
 title: goonies nevery say die
 email: fabio.lucidi@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
-  un blog di Fabio Lucidi
+  a blog by Fabio Lucidi
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.fabiolucidi.it" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /images/profile.png

@@ -2,8 +2,7 @@
 layout: page
 title: Contact Form
 ---
-Per informazioni, commenti, richieste o domande puoi contattarmi tramite questo form, ti risponderò appena possibile.
-Tutti i campi sono obbligatori, assicurati di inserire un indirizzo email valido per essere ricontattato.
+For any information, comment, request or question you can contact me through this form: I'll get back to you as soon as I can. Please double-check your email address otherwise I won't be able to contact you. All the requested fields are mandatory.
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mwkypyoz" method="post">
   <fieldset id="fs-frm-inputs">
