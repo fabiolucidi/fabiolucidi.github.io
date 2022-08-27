@@ -5,8 +5,8 @@ title: "Buying BTC Off-Exchange"
 date: 2022-08-27
 share: false
 image:
-  path: /images/2022-08-21-buying-btc-off-exchange.jpg
-  thumbnail: /images/2022-08-21-buying-btc-off-exchange.jpg
+  path: /images/2022-08-27-buying-btc-off-exchange.jpg
+  thumbnail: /images/2022-08-27-buying-btc-off-exchange.jpg
   caption: <a href="https://unsplash.com/photos/uXWPg9uMwt8">Banknote face, a photo by Freddie Collins</a>
 excerpt: "When you'll realize our financial world is going to end soon, you may want to start buying some hard money like Bitcoin. The charmer voices of some exchanges will lure you into the market by joining them, but trust me: **you've to resist**!!! In this post I'll explain why exchanges should be avoided and non-KYC systems, like HodlHodl and Bisq, should be preferred. "
 ---
