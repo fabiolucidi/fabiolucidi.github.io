@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: writings
-title: "A couple of reasons you should focus only on Bitcoin"
+title: "Bitcoin only: a couple of reasons to focus only on it"
 date: 2022-09-01
 share: false
 image:
