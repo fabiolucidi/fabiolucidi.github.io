@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: writings
+categories: bitcoin, writings
 title: "A couple of reasons why you should go Bitcoin only"
 date: 2022-09-01
 share: false
