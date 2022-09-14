@@ -144,7 +144,7 @@ defaults:
 author:
   name: fabio
   picture: /images/profile.png
-  email: fabio.lucidi@pm.me
+  email: blog@fabiolucidi.it
   twitter: bioaf
   links:
     - title: twitter
@@ -171,4 +171,4 @@ footer_links:
   - title: feed
     url: atom.xml
     icon: fas fa-rss-square
-copyright: "Feel free to [tip me](bitcoin://bc1qs9ku5phtvwrr34tccas6xxkq9edz3ymxymgmty) or [donate](bitcoin://bc1qs9ku5phtvwrr34tccas6xxkq9edz3ymxymgmty) with bitcoin: bc1qs9ku5phtvwrr34tccas6xxkq9edz3ymxymgmty <br/>[Onion address](https://www.jda7pxjlrqahy224geqcav4luvgmsuavruipzfxahl4ruheoywmylbid.onion): jda7pxjlrqahy224geqcav4luvgmsuavruipzfxahl4ruheoywmylbid.onion<br/>This site is made with Jekyll, GitHub Pages and <3"
+copyright: "Feel free to [tip me](bitcoin://bc1qs9ku5phtvwrr34tccas6xxkq9edz3ymxymgmty) or [donate](bitcoin://bc1qs9ku5phtvwrr34tccas6xxkq9edz3ymxymgmty) with bitcoin: bc1qs9ku5phtvwrr34tccas6xxkq9edz3ymxymgmty <br/>[Onion address](https://jda7pxjlrqahy224geqcav4luvgmsuavruipzfxahl4ruheoywmylbid.onion): jda7pxjlrqahy224geqcav4luvgmsuavruipzfxahl4ruheoywmylbid.onion<br/>This site is made with Jekyll, GitHub Pages and <3"
