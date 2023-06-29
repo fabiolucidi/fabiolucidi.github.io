@@ -177,10 +177,10 @@ Z1mKdYYlufC5e4DcQgUnsbFo+F4o62XyF+sA/0DY5PavmJUG+ql2wMnhlr8nSNHh
 </pre>
 
 -->
-
+<!--
 # Keybase
 You can check more on my [keybase profile](http://keybase.io/fabiolucidi).
-
+-->
 # List of my revoked keys (fingerprint)
 * `ADC7 8E1B CC8C C903 7619 381F EC87 7604 B028 F39D` \
 _Reason: Key pair, created on a non-air-gapped/secure machine_
