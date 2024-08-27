@@ -5,10 +5,10 @@ title: "Pavel Durov"
 date: 2024-08-27
 share: false
 image:
-path: /images/2024-08-27-Pavel_Durov.jpg
-thumbnail: /images/2024-08-27-Pavel_Durov.jpg
-caption: <a href="https://unsplash.com/photos/queen-and-woman-kneeling-beside-sleeping-man-painting-Agvr-2DFZDM">Queen and woman kneeling beside sleeping man, a painting from the Birmingham Museums Trust</a>
-excerpt: "It's been a while since my latest posts and if you read those things again you might think I'm a _prophet of doom_. Right now I could tell you that I warned you, that I explained what to avoid and why, that it's all your fault if you lost money in FTX or other exchanges recent crashes. Truth is..."
+  path: /images/2024-08-27-Pavel_Durov.jpg
+  thumbnail: /images/2024-08-27-Pavel_Durov.jpg
+  caption: <a href="https://unsplash.com/photos/queen-and-woman-kneeling-beside-sleeping-man-painting-Agvr-2DFZDM">Queen and woman kneeling beside sleeping man, a painting from the Birmingham Museums Trust</a>
+excerpt: "Pavel Durov è stato arrestato a Parigi sabato 24 agosto 2024. La copertura offerta dalla stampa italiana su questo notizia è stata in prima battuta molto modesta e molte informazioni divulgate riguardo la piattaforma Telegram sono state imprecise. Con questo poste vorrei provare a fare chiarezza su due punti: il primo è che..."
 ---
 Pavel Durov è stato arrestato a Parigi sabato 24 agosto 2024. La copertura offerta dalla stampa italiana su questo notizia è stata in prima battuta molto modesta e molte informazioni divulgate riguardo la piattaforma Telegram sono state imprecise. Con questo poste vorrei provare a fare chiarezza su due punti: il primo è che **Pavel Durov è una figura complessa e soprattutto fumosa**, non comparabile a mio avviso ad omologhi del settore specie occidentali, il secondo riguarda proprio Telegram in sé che **non va ritenuta una piattaforma di messaggistica sicura** contrariamente a quanto i giornali lasciano intendere secondo un ragionamento tale per cui _se lo puoi usare per vendere cose illegali allora vuol dire che è sicuro_.
 
