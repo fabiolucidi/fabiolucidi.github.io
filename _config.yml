@@ -94,7 +94,7 @@ google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: bioaf # site's Twitter username, e.g. "mmistakes"
+  username: # site's Twitter username, e.g. "mmistakes"
 
 # Liquid
 liquid:
@@ -147,9 +147,9 @@ author:
   email: blog@fabiolucidi.it
   twitter: bioaf
   links:
-    - title: twitter
-      url: https://twitter.com/bioaf
-      icon: fab fa-twitter-square
+#    - title: twitter
+#      url: https://twitter.com/bioaf
+#      icon: fab fa-twitter-square
     - title: instagram
       url: https://instagram.com/fablucidi
       icon: fab fa-instagram
@@ -159,9 +159,9 @@ author:
 
 # Footer Links
 footer_links:
-  - title: twitter
-    url: https://twitter.com/bioaf
-    icon: fab fa-twitter-square
+#  - title: twitter
+#    url: https://twitter.com/bioaf
+#    icon: fab fa-twitter-square
   - title: instagram
     url: https://instagram.com/fablucidi
     icon: fab fa-instagram
